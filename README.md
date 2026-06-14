@@ -57,7 +57,7 @@ CVEs Found  : 4
 Completed   : 2026-06-13 21:13:59
 ────────────────────────────────────────────────────────────
 ```
-
+![vulnscan output](screenshots/scan_output.png)
 ---
 
 ## 🚀 Installation
