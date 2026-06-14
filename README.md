@@ -173,5 +173,5 @@ This tool is intended for **educational purposes and authorized testing only**. 
 ## 👤 Author
 
 **Harshvardhan Kamble**  
-Georgia State University — CSC4222 Cybersecurity  
+Georgia State University 
 June 2026
